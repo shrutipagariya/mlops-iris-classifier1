@@ -21,3 +21,4 @@ mlruns/
 # IDE
 .vscode/
 .idea/
+/data.csv
